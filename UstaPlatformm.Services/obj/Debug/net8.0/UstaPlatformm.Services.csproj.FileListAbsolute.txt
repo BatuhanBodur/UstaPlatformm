@@ -13,3 +13,4 @@ C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\refint\UstaPlatformm.Services.dll
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.pdb
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\ref\UstaPlatformm.Services.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.sourcelink.json

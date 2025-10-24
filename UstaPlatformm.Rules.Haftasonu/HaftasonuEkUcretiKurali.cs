@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System;
-using UstaPlatformm.Domain; // Domain'e bağımlı
+using UstaPlatformm.Domain; 
 
 namespace UstaPlatformm.Rules.Haftasonu
 {
-    // Plug-in 1
+    
     public class HaftasonuEkUcretiKurali : IPricingRule
     {
         public string RuleName => "Hafta Sonu Ek Ücreti (+75 TL)";

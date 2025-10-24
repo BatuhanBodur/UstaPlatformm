@@ -9,8 +9,8 @@ namespace UstaPlatformm.Domain
     public class Usta
     {
         public int Id { get; init; }
-        public string Ad { get; set; } = string.Empty; // UYARI DÜZELTMESİ
-        public string UzmanlikAlani { get; set; } = string.Empty; // UYARI DÜZELTMESİ
+        public string Ad { get; set; } = string.Empty; 
+        public string UzmanlikAlani { get; set; } = string.Empty; 
         public double Puan { get; set; }
         public Cizelge Cizelgesi { get; set; } = new Cizelge();
     }

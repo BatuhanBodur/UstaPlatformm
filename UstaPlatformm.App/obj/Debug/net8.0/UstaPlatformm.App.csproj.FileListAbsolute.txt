@@ -18,3 +18,4 @@ C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.App\obj\Debug\net8.0\ref
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.App\obj\Debug\net8.0\UstaPlatformm.App.pdb
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.App\obj\Debug\net8.0\UstaPlatformm.App.genruntimeconfig.cache
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.App\obj\Debug\net8.0\ref\UstaPlatformm.App.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.App\obj\Debug\net8.0\UstaPlatformm.App.sourcelink.json

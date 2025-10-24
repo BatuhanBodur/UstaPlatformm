@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// UstaPlatformm.Services/PricingEngine.cs
+
 using System.Reflection;
-using UstaPlatformm.Domain; // Yeni namespace'i kullanır
+using UstaPlatformm.Domain; 
 using System.IO; // Directory, Path ve File için eklendi
 
 namespace UstaPlatformm.Services

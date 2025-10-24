@@ -9,3 +9,4 @@ C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\refint\UstaPlatformm.Domain.dll
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.pdb
 C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\ref\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.sourcelink.json

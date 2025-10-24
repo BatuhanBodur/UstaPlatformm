@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UstaPlatformm.Infrastructure
 {
-    // C# Gereksinimi: Statik Yardımcı Sınıf
+
     public static class Guard
     {
         public static void IsNull(object obj, string paramName)

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using UstaPlatformm.Domain; // Yeni namespace'i kullanır
+using UstaPlatformm.Domain; 
 
 namespace UstaPlatformm.Rules.Loyalty
 {

@@ -9,7 +9,7 @@ namespace UstaPlatformm.Infrastructure
 {
     public class InMemoryUstaRepository : IUstaRepository
     {
-        // ... (diğer kodlar aynı) ...
+      
         private static List<Usta> _ustalar = new List<Usta>
         {
             new Usta { Id = 1, Ad = "Ali Veli", UzmanlikAlani = "Tesisat", Puan = 4.5 },
@@ -17,7 +17,7 @@ namespace UstaPlatformm.Infrastructure
             new Usta { Id = 3, Ad = "Mehmet Demir", UzmanlikAlani = "Tesisat", Puan = 4.2 }
         };
 
-        public Usta? GetById(int id) // DEĞİŞİKLİK BURADA (Usta? oldu)
+        public Usta? GetById(int id) 
         {
             return _ustalar.FirstOrDefault(u => u.Id == id);
         }

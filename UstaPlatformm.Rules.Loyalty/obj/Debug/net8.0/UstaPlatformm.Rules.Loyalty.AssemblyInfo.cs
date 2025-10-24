@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UstaPlatformm.Rules.Loyalty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed87ddf1af49a99419c80dc3b5ac10928394de7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("UstaPlatformm.Rules.Loyalty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UstaPlatformm.Rules.Loyalty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ namespace UstaPlatformm.Domain
 
         public void Ekle(IsEmri isEmri)
         {
-            // DateOnly C# 10.0 (.NET 6.0+) gerektirir, .NET 8.0 destekler
+
             var gun = DateOnly.FromDateTime(isEmri.PlanlananZaman);
             if (!_takvim.ContainsKey(gun))
             {

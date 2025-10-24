@@ -11,7 +11,7 @@ namespace UstaPlatformm.Domain
     {
         public Guid Id { get; init; } = Guid.NewGuid();
         public Vatandas TalepEden { get; init; }
-        public string Aciklama { get; set; } = string.Empty; // UYARI DÜZELTMESİ
+        public string Aciklama { get; set; } = string.Empty; 
         public (int X, int Y) Konum { get; set; }
         public DateTime KayitZamani { get; init; } = DateTime.Now;
 
