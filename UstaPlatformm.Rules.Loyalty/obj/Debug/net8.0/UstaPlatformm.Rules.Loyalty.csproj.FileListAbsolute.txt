@@ -1,0 +1,15 @@
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\bin\Debug\net8.0\UstaPlatformm.Rules.Loyalty.deps.json
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\bin\Debug\net8.0\UstaPlatformm.Rules.Loyalty.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\bin\Debug\net8.0\UstaPlatformm.Rules.Loyalty.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\bin\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\bin\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.AssemblyInfo.cs
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlat.AF976147.Up2Date
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\refint\UstaPlatformm.Rules.Loyalty.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\UstaPlatformm.Rules.Loyalty.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Loyalty\obj\Debug\net8.0\ref\UstaPlatformm.Rules.Loyalty.dll

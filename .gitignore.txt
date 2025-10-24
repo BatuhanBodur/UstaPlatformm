@@ -1,0 +1,38 @@
+# VisualStudio'nun oluşturduğu kullanıcıya özel ayarlar
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VisualStudio Build/Derleme çıktıları
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Rr]eleases/
+[Dd]ebug/
+[Dd]ebugs/
+x64/
+x86/
+build/
+Build/
+bld/
+
+# Projemizin özel Plug-in klasörü
+**/Plugins/
+
+# VisualStudio Tanı dosyaları
+*.vs/
+.vs/
+TestResults/
+*.DotSettings
+*.csproj.user
+
+# Diğer
+*.codecln
+*.ipch
+*.log
+*.plg
+*.psess
+*.ReSharper
+*.tlog
+_ReSharper*

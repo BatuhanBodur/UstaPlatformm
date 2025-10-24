@@ -1,0 +1,15 @@
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.deps.json
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.AssemblyInfo.cs
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlat.02A42B6B.Up2Date
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\refint\UstaPlatformm.Rules.Haftasonu.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatformm.Rules.Haftasonu.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Rules.Haftasonu\obj\Debug\net8.0\ref\UstaPlatformm.Rules.Haftasonu.dll

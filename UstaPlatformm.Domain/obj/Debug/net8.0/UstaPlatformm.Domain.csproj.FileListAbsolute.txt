@@ -1,0 +1,11 @@
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\bin\Debug\net8.0\UstaPlatformm.Domain.deps.json
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\bin\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\bin\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.AssemblyInfo.cs
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\refint\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Domain\obj\Debug\net8.0\ref\UstaPlatformm.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\bin\Debug\net8.0\UstaPlatformm.Services.deps.json
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\bin\Debug\net8.0\UstaPlatformm.Services.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\bin\Debug\net8.0\UstaPlatformm.Services.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\bin\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\bin\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.AssemblyInfo.cs
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlat.559B1E08.Up2Date
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\refint\UstaPlatformm.Services.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\UstaPlatformm.Services.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Services\obj\Debug\net8.0\ref\UstaPlatformm.Services.dll

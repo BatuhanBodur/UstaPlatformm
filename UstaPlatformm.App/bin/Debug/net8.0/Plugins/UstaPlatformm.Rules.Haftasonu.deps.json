@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UstaPlatformm.Rules.Haftasonu/1.0.0": {
+        "dependencies": {
+          "UstaPlatformm.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UstaPlatformm.Rules.Haftasonu.dll": {}
+        }
+      },
+      "UstaPlatformm.Domain/1.0.0": {
+        "runtime": {
+          "UstaPlatformm.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UstaPlatformm.Rules.Haftasonu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UstaPlatformm.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

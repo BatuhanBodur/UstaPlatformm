@@ -1,0 +1,15 @@
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\bin\Debug\net8.0\UstaPlatformm.Infrastructure.deps.json
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\bin\Debug\net8.0\UstaPlatformm.Infrastructure.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\bin\Debug\net8.0\UstaPlatformm.Infrastructure.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\bin\Debug\net8.0\UstaPlatformm.Domain.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\bin\Debug\net8.0\UstaPlatformm.Domain.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.AssemblyInfo.cs
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlat.80ACB40E.Up2Date
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\refint\UstaPlatformm.Infrastructure.dll
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\UstaPlatformm.Infrastructure.pdb
+C:\Users\batuh\source\repos\UstaPlatformm\UstaPlatformm.Infrastructure\obj\Debug\net8.0\ref\UstaPlatformm.Infrastructure.dll
