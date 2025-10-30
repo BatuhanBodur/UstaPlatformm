@@ -64,5 +64,5 @@ Projenin en kritik teknik başarımı, `PricingEngine` sınıfıdır. Bu motor, 
 Bu tasarım sayesinde, gelecekte "Bayram Zammı" veya "Akşam Mesaisi" gibi yeni kurallar eklemek için, ana uygulamayı durdurmaya veya yeniden derlemeye gerek kalmadan, sadece yeni bir DLL dosyasını `Plugins` klasörüne bırakmak yeterli olacaktır.
 
 ##Demo Çıktısı
-<img width="956" height="794" alt="Ekran görüntüsü 2025-10-24 165538" src="https://github.com/user-attachments/assets/4b7368ee-c87a-4e09-9643-bed84a4a3390" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2025-10-30 164934" src="https://github.com/user-attachments/assets/a9df180d-5c36-4ae5-805b-687bc78c9431" />
 
